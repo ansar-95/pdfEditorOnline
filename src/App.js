@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Header from './Components/HeaderItem/Header';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Helloo</h1>
+    <div>
+      <Header/>
     </div>
   );
 }
