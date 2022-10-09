@@ -13,7 +13,7 @@ function Editor() {
       <Container>
           <Row className="justify-content-md-center mt-3">
             <Col xs lg="2">
-            <Button variant="danger" className=''>Import  pdf</Button>
+            <Button variant="danger" className=''>Import pdf</Button>
             </Col>
             
           </Row>
